@@ -13,6 +13,8 @@ class Post
   end
   
   def author_name
+    @@all.each do |x|
+      if 
     self.author.name
   end
   
