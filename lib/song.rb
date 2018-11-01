@@ -8,9 +8,10 @@ class Song
     @@all << self
   end
   
-  def self.all
+  def self.all_songs
     @@all
   end
   
-
+  def 
+  
 end
